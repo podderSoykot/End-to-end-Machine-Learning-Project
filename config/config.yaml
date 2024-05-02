@@ -17,9 +17,9 @@ data_validation:
 
 
 
-# data_transformation:
-#   root_dir: artifacts/data_transformation
-#   data_path: artifacts/data_ingestion/winequality-red.csv
+data_transformation:
+  root_dir: artifacts/data_transformation
+  data_path: C:\Users\User\Desktop\Month_April\26-4-2024\End-to-end-Machine-Learning-Project\artifacts\data_ingestion\winequality-red.csv
 
 
 
